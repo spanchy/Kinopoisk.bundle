@@ -62,6 +62,12 @@ sudo systemctl restart plexmediaserver
 
 ![Скриншот](https://b.radikal.ru/b41/1901/88/404cf326bbff.png)
 
+## Получение ключа API
+
+![image](https://user-images.githubusercontent.com/562733/136151815-a2e05174-fcb1-4fe0-81ba-2b5743b07d8e.png)
+Необходимо перейти на сайт [хочу API ключ](https://kinopoiskapiunofficial.tech/) и нажать вверху "Sign up"
+После регистрации и верификации почты (посредством введения полученного кода из письма) Вам будет доступен личный кабинет, перейдя на вкладку "Profile" вы увидите информацию, в том числе Ваш API-ключ, который необходимо вставить в настройках.
+
 ## [Список изменений](CHANGELOG.md)
 
 ## Об авторе
